@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#6200EE</color>
-    <color name="colorPrimaryDark">#3700B3</color>
-    <color name="colorAccent">#03DAC5</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="dsg">#E8E7E7</color>
+    <color name="dsgB">#FFFFFF</color>
+    <color name="dss">#6A69FF</color>
+    <color name="dsss">#5E6A69FF</color>
+    <color name="tips_background_color">#477A85</color>
+    <color name="sucess_text_color">#00BB0C</color>
+    <color name="pending_text_color">#2144F3</color>
+    <color name="cancel_flight_color">#FF2116</color>
+
+    <color name="ds_picker_box_bg">#F7DDDDDD</color>
+    <color name="ds_picker_box_sm">#000000</color>
+    <color name="ds_list_selector_bg">#49067397</color>
+    <color name="sb_color">#FDFDFD</color>
+    <color name="status_bar">#673AB7</color>
+    <color name="available_dates">#477A85</color>
+    <color name="ds_picker_box">#67DDDDDD</color>
+    <color name="ds_list_bg">#ffffff</color>
+    <color name="calendarTextRegularColor">#7A000000</color>
+
+    <color name="blue">#348af7</color>
+
+    <color name="temperature_background">@color/blue</color>
+    <color name="temperature_text">@android:color/white</color>
+
+    <color name="green_dot_big">@color/blue</color>
+    <color name="green_dot_small">@color/blue</color>
 </resources>
