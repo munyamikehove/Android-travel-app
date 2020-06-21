@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "302161210673",
+    "firebase_url": "https://zerojet-85661.firebaseio.com",
+    "project_id": "zerojet-85661",
+    "storage_bucket": "zerojet-85661.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302161210673:android:900a792b0ee3b55a711410",
+        "android_client_info": {
+          "package_name": "com.zerojet.zerojet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302161210673-gnmvt5v8r6g0h1iu9g0t95hk5gae02at.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zerojet.zerojet",
+            "certificate_hash": "c23009ebcda86f506163bb43b9d13c7d373c5deb"
+          }
+        },
+        {
+          "client_id": "302161210673-vpa4c9cj0n6ob1p4k67k7sv4r7s04lia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zerojet.zerojet",
+            "certificate_hash": "486efe4e3c3f8603df4047f926a1a00581b9eb04"
+          }
+        },
+        {
+          "client_id": "302161210673-fujs2i3usb6sbnu2nquv8ce3lekhl1ko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ51gKUTQohMYSYPRgT8F6UJh8oP0zpwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302161210673-fujs2i3usb6sbnu2nquv8ce3lekhl1ko.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "302161210673-qdvi5jo3f1q5v9l35sv4q4iltnn747lm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zerojet.Zerojet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
